@@ -1,0 +1,72 @@
+
+.form-container{
+    border: 2px groove #eee;
+    border-radius: 2%;
+    width: 40%;
+    padding: 5px;
+    height:50vh;
+    margin: auto;
+    margin-top: 5%; 
+}
+
+#fileupload{
+    border: 1px solid black;
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin: 2.5%;
+    width: 95%;
+    height: 5vh;
+    margin-top:12%;
+}
+ 
+.author{
+    display: inline-block;
+    border: 1px solid black;
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin: 2.5% 2.5% 2.5% 2.5%;
+    width: 45%;
+    height: 4vh;
+}
+
+.location{
+    display: inline-block;
+    background-color: aliceblue;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 2.5% 2.5% 2.5% 2.5%;
+    width: 43%;
+    height: 4vh;
+}
+
+.description{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 2.1%;
+    width: 94.5%;
+    height: 4vh;
+    display: inline-block;
+    /* background-color: aliceblue; */
+    background-color: aliceblue;
+    /* margin-top: 4%; */
+}
+
+#btn{
+    background-color: aliceblue;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-color: rgb(164, 162, 162);
+    border-radius: 4px;
+    font-size: medium;
+    margin-top: 5%;
+}
+
+#bttn:hover{
+    background-color: steelblue;
+    cursor: pointer;
+    width: 22%;
+    margin-left: 39%;
+    margin-right: 39%;
+    font-weight: 200;
+}

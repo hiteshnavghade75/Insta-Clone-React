@@ -1,0 +1,23 @@
+.heading {
+  position: relative;
+  margin: 0px;
+  font-size: 50px;
+  margin-left: 70px;
+}
+
+.postview-header {
+  border-bottom: 2px solid black;
+  padding: 10px 80px;
+}
+
+.postChild {
+  display: inline-block;
+}
+
+.postview-header> :last-child {
+  float: right;
+}
+
+.postview-header> :first-child {
+  position: absolute;
+}

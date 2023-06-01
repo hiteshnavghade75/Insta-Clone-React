@@ -1,0 +1,28 @@
+.landing-container{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 80px;
+    font-size: 2rem;
+    color: #006238;
+  }
+  
+  .landing-container img{
+    width: 350px;
+  }
+  
+  .landing-btn{
+    padding-top: 170px;
+    margin-left: -150px;
+    text-align: center;
+  }
+  
+  .landing-btn button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    width: 100px;
+    height: 40px;
+    border-color: #006238;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #006238;
+  }

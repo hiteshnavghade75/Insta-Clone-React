@@ -1,0 +1,60 @@
+.post-container {
+    width: 400px;
+    height: 450px;
+    background-color: #f8f8f8;
+    border: 1px solid rgb(7, 7, 7);
+    border-radius: 5px;
+    margin: 3% auto;
+}
+
+.header-section {
+    height: 20%;
+    padding: 3% 2%;
+    margin-bottom: 10px;
+    height: 10%;
+}
+
+.header-section h1 {
+    margin: 0;
+}
+
+.header-section .more-icon {
+    width: 50px;
+    float: right;
+    margin-top: -20px;
+    margin-right: 5px;
+    font-size: 50px;
+
+}
+
+.body-section {
+    /* width: 100%;
+    height: 80%; */
+    /* top: 300px;
+    left: 600px; */
+    width: 100%;
+    height: 60%;
+}
+
+.body-section img {
+    width: 100%;
+    /* aspect-ratio: 3/4; */
+    object-fit: cover;
+    max-height: 100%;
+}
+
+.footer-section {
+    padding-left: 3%;
+    padding-top: 2%;
+    height: 20%;
+}
+
+.footer-section span {
+    float: right;
+    margin-right: 5%;
+}
+
+.img-container img {
+    margin-left: 2%;
+    width: 20px;
+}
